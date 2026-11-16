@@ -76,9 +76,9 @@ I'm currently strengthening my skills in Java, Data Structures & Algorithms, Rea
 
 ### 🤝 Connect With Me
 
-- LinkedIn: Add your LinkedIn URL
+- LinkedIn: https://www.linkedin.com/in/alluri-ajay-reddy/
 - Portfolio: Coming soon
-- Email: Add your professional email
+- Email: alluriajayreddy1701@gmail.com
 
 ---
 
