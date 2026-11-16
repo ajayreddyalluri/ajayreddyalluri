@@ -1,72 +1,55 @@
 # Hi, I'm Ajay Reddy 👋
 
-### Aspiring Software Developer | Full-Stack Developer | AI/ML Enthusiast
+### Software Developer | React | Java | Python | AI Applications
 
-I'm a Computer Science graduate passionate about building practical software applications and solving real-world problems through technology.
+Computer Science graduate interested in building practical software applications, developing web solutions and exploring AI-powered technologies.
 
-I'm currently strengthening my skills in Java, Data Structures & Algorithms, React, SQL, backend development and AI-powered applications.
-
-### 🚀 About Me
+## 👨‍💻 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering
-- 💻 Interested in Software Development and AI/ML Engineering
-- 🌱 Currently learning Java, DSA, React and SQL
-- 🛠️ Building practical projects and improving my development skills
-- 🎯 Looking for software development opportunities, internships and freelance projects
+- 💻 Interested in Software Development and Full-Stack Development
+- 🌱 Currently strengthening Java, DSA, React and SQL
+- 🤖 Exploring AI, Machine Learning and RAG applications
+- 🎯 Open to software developer opportunities, internships and freelance projects
 
-### 🧰 Technical Skills
+## 🛠️ Technologies
 
-**Programming Languages**
-- Java
-- Python
-- JavaScript
+**Languages:** Java, Python, JavaScript
 
-**Frontend Development**
-- HTML
-- CSS
-- React.js
+**Frontend:** HTML, CSS, React.js
 
-**Backend & Database**
-- Node.js
-- Express.js
-- REST APIs
-- SQL
-- SQLite
-- MongoDB
+**Backend:** Node.js, Express.js, REST APIs
 
-**AI/ML**
-- Python
-- Machine Learning fundamentals
-- Sentence Transformers
-- FAISS
-- RAG fundamentals
+**Databases:** SQL, SQLite, MongoDB
 
-**Tools**
-- Git
-- GitHub
-- VS Code
-- Postman
-- Google Colab
+**AI/ML Tools:** Sentence Transformers, FAISS, Streamlit
 
-### 📌 Featured Projects
+**Tools:** Git, GitHub, VS Code, Postman, Google Colab
 
-| Project | Description |
-|---|---|
-| Job Application Tracker | A web application to organise and track job applications. |
-| CareerPilot | An AI-assisted resume and interview preparation application. |
-| CareConnect AI | A healthcare-focused hackathon project. |
+## 🚀 Public Projects
 
-*Project descriptions and links will be updated as features are completed and verified.*
+### 1. Job Application Tracker
+A React application for managing job applications, tracking hiring status, searching records and viewing dashboard statistics.
 
-### 📚 Currently Working On
+[View Repository](https://github.com/ajayreddyalluri/Job-Application-Tracker)
 
-- Improving Java and DSA problem-solving
-- Building React applications
-- Practising SQL and database concepts
-- Developing practical AI-powered applications
-- Improving software engineering fundamentals
+### 2. KaStack Conversation Memory RAG
+A Python-based conversational memory project using semantic topic segmentation, embeddings and FAISS retrieval.
 
-### 🎯 Career Interests
+[View Repository](https://github.com/ajayreddyalluri/kastack-conversation-memory-rag)
+
+### 3. CareConnect AI
+Healthcare-focused hackathon project. Repository documentation and code availability are being reviewed.
+
+## 📚 Currently Learning
+
+- Java and Data Structures & Algorithms
+- React and frontend development
+- SQL and database management
+- Backend development and REST APIs
+- AI/ML and Retrieval-Augmented Generation
+
+## 🎯 Career Interests
 
 - Software Developer
 - Java Developer
@@ -74,12 +57,9 @@ I'm currently strengthening my skills in Java, Data Structures & Algorithms, Rea
 - Backend Developer
 - AI/ML Engineer
 
-### 🤝 Connect With Me
+## 🤝 Connect
 
-- LinkedIn: https://www.linkedin.com/in/alluri-ajay-reddy/
-- Portfolio: Coming soon
-- Email: alluriajayreddy1701@gmail.com
+- LinkedIn: [Alluri Ajay Reddy](https://www.linkedin.com/in/alluri-ajay-reddy/)
+- GitHub: [@ajayreddyalluri](https://github.com/ajayreddyalluri)
 
----
-
-⭐ Thanks for visiting my GitHub profile!
+⭐ Thanks for visiting my profile!
