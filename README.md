@@ -1,65 +1,60 @@
 # Hi, I'm Ajay Reddy 👋
 
-### Software Developer | React | Java | Python | AI Applications
+### Software Developer | Java | Full-Stack Development | AI/ML Enthusiast
 
-Computer Science graduate interested in building practical software applications, developing web solutions and exploring AI-powered technologies.
+I'm a Computer Science graduate interested in building practical software applications and AI-powered solutions.
 
-## 👨‍💻 About Me
+Currently focused on:
+- Java and Data Structures & Algorithms
+- React.js and Backend Development
+- SQL and Database Management
+- Python, Machine Learning and Generative AI
 
-- 🎓 B.Tech in Computer Science & Engineering
-- 💻 Interested in Software Development and Full-Stack Development
-- 🌱 Currently strengthening Java, DSA, React and SQL
-- 🤖 Exploring AI, Machine Learning and RAG applications
-- 🎯 Open to software developer opportunities, internships and freelance projects
+## Featured Projects
 
-## 🛠️ Technologies
+### 1. CareConnect AI
+An elderly-care and medication management application.
+- React.js, Python, FastAPI and SQLite
+- Medication and appointment management
 
-**Languages:** Java, Python, JavaScript
+[View Repository](https://github.com/ajayreddyalluri/CareConnect-AI)
 
-**Frontend:** HTML, CSS, React.js
-
-**Backend:** Node.js, Express.js, REST APIs
-
-**Databases:** SQL, SQLite, MongoDB
-
-**AI/ML Tools:** Sentence Transformers, FAISS, Streamlit
-
-**Tools:** Git, GitHub, VS Code, Postman, Google Colab
-
-## 🚀 Public Projects
-
-### 1. Job Application Tracker
-A React application for managing job applications, tracking hiring status, searching records and viewing dashboard statistics.
-
-[View Repository](https://github.com/ajayreddyalluri/Job-Application-Tracker)
-
-### 2. KaStack Conversation Memory RAG
-A Python-based conversational memory project using semantic topic segmentation, embeddings and FAISS retrieval.
+### 2. Conversation Memory RAG
+A conversational memory system using semantic retrieval.
+- Python, SentenceTransformers and FAISS
+- Topic segmentation and semantic search
 
 [View Repository](https://github.com/ajayreddyalluri/kastack-conversation-memory-rag)
 
-### 3. CareConnect AI
-Healthcare-focused hackathon project. Repository documentation and code availability are being reviewed.
+### 3. Job Application Tracker
+A React application for tracking job applications.
+- React, JavaScript, Vite and localStorage
+- Search, filters and application dashboard
 
-## 📚 Currently Learning
+[View Repository](https://github.com/ajayreddyalluri/Job-Application-Tracker)
 
-- Java and Data Structures & Algorithms
-- React and frontend development
-- SQL and database management
-- Backend development and REST APIs
-- AI/ML and Retrieval-Augmented Generation
+## Technologies
 
-## 🎯 Career Interests
+**Languages:** Java, Python, JavaScript
 
-- Software Developer
-- Java Developer
-- Full-Stack Developer
-- Backend Developer
-- AI/ML Engineer
+**Frontend:** React.js, HTML, CSS
 
-## 🤝 Connect
+**Backend:** Node.js, Express.js, FastAPI
 
-- LinkedIn: [Alluri Ajay Reddy](https://www.linkedin.com/in/alluri-ajay-reddy/)
-- GitHub: [@ajayreddyalluri](https://github.com/ajayreddyalluri)
+**Database:** SQL, SQLite, MongoDB
 
-⭐ Thanks for visiting my profile!
+**AI/ML:** SentenceTransformers, FAISS, RAG fundamentals
+
+**Tools:** Git, GitHub, VS Code, Postman
+
+## Currently Working On
+- Improving Java and DSA
+- Building full-stack applications
+- Practising SQL and DBMS
+- Learning backend engineering and AI/ML
+
+## Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/alluri-ajay-reddy/
+- LeetCode: https://leetcode.com/u/alluriajayreddy/
+- GitHub: https://github.com/ajayreddyalluri/
